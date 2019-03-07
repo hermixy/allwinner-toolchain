@@ -1,5 +1,16 @@
-/4.9.3
-/gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu
 
-/gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu.tar.xz
-/arm-cortexa9-linux-gnueabihf-4.9.3-20160512.tar.xz
+# H3 Linux-4.14
+arm-cortexa9-linux-gnueabihf-4.9.3-20160512.tar.xz
+4.9.3
+
+# H5 Linux-4.14
+gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu.tar.xz
+gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu
+
+# H5/H6 Linux-3.10
+gcc-linaro-aarch64.tar.xz
+gcc-aarch64
+
+# H5/H6 Linux-3.10
+gcc-linaro-arm-4.6.3.tar.xz
+gcc-arm
